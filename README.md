@@ -25,8 +25,6 @@ TensorFlow (>= 2.0)
 Dataset
 The MNIST dataset is already included in the repository under the "data" folder. It contains 60,000 training images and 10,000 test images of handwritten digits (28x28 grayscale images).
 
-Sample MNIST Images
-
 Results
 After training the neural network on the MNIST dataset, we'll display and analyze the accuracy achieved by the model on the test set. Additionally, we may provide some visualizations of misclassified images and confusion matrices to gain insights into the model's performance.
 

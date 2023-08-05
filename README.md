@@ -1,5 +1,10 @@
 Handwritten Digit Classification using Neural Network (MNIST Dataset)
+
 MNIST Dataset
+
+
+![image](https://github.com/mohammadkaifkhan/Bharat_Intern_TASK-3/assets/140233884/bcbd723b-adf1-4f42-8c8b-3aa498a9586b)
+
 
 This is a repository for a project that demonstrates handwritten digit classification using a neural network trained on the MNIST dataset. The MNIST dataset is a popular benchmark dataset for image classification, widely used in the field of machine learning and deep learning.
 

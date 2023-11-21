@@ -9,11 +9,11 @@ MNIST Dataset
 This is a repository for a project that demonstrates handwritten digit classification using a neural network trained on the MNIST dataset. The MNIST dataset is a popular benchmark dataset for image classification, widely used in the field of machine learning and deep learning.
 
 Description
-In this project, we aim to build and train a neural network model to accurately classify handwritten digits (0 to 9) from the MNIST dataset. We'll use the TensorFlow library to create and train the neural network, and then evaluate its performance on the test set.
+In this project, I aimed to build and train a neural network model to accurately classify handwritten digits (0 to 9) from the MNIST dataset. I have used the TensorFlow library to create and train the neural network, and then evaluate its performance on the test set.
 
 The main steps of the project include:
 
-Data Loading: We'll download the MNIST dataset and preprocess the images to prepare them for training.
+Data Loading: Download the MNIST dataset and preprocess the images to prepare them for training.
 
 Model Architecture: Design and define the neural network architecture to be used for digit classification.
 
@@ -22,7 +22,7 @@ Training: Train the neural network on the training data and adjust the model's p
 Evaluation: Evaluate the trained model's accuracy on the test dataset to measure its performance.
 
 Prerequisites
-Before running the code, make sure you have the following dependencies installed:
+Before running the code, the following dependencies were installed:
 
 Python (>= 3.6)
 TensorFlow (>= 2.0)
